@@ -6,6 +6,11 @@
 	font: inherit;
 	vertical-align: baseline;
   }
+	  h1 {
+font-size: 8em;
+color: #1b92c1;
+}
+  
 
 body {
 	line-height: 1;
